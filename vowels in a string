@@ -1,0 +1,3 @@
+input_string = "Hello World!"
+vowel_count = count_vowels(input_string)
+print("The number of vowels in the string is:{vowel_count}")
